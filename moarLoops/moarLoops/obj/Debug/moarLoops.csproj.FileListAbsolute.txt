@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moarLoops\moarLoops\bin\Debug\moarLoops.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moarLoops\moarLoops\bin\Debug\moarLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moarLoops\moarLoops\bin\Debug\moarLoops.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moarLoops\moarLoops\obj\Debug\moarLoops.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moarLoops\moarLoops\obj\Debug\moarLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moarLoops\moarLoops\obj\Debug\moarLoops.pdb

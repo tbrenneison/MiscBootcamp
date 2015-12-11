@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<img id="lookAtThisGuineaPig" src="http://www.petco.com/assets/shop/img_left_guineapig.jpg" class="img-responsive"
+        onclick="swapImage()" />
+
+<script>
+    function swapImage()
+    {
+        var imgOne = document.getElementById("lookAtThisGuineaPig");
+        if (imgOne.src == "http://www.petco.com/assets/shop/img_left_guineapig.jpg")
+        {
+            imgOne.src = "http://www.likecool.com/Gear/Pic/Cutest%20Rats/Cutest-Rats-1.jpg"
+            imgOne.width = "200"
+        }
+        else
+        {
+            imgOne.src = "http://www.petco.com/assets/shop/img_left_guineapig.jpg"
+        }
+
+    }
+</script>
+
+
+
+<!--
+<div id="myDiv">
+    <button onclick="changeDiv()">Click Me</button>
+    <script>
+        function changeDiv()
+        {
+            var div = document.getElementById("myDiv"); 
+            div.innerHTML = "Hello From JavaScript!";
+        }
+    </script>
+</div>
+-->

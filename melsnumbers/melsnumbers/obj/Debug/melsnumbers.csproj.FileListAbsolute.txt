@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\melsnumbers\melsnumbers\bin\Debug\melsnumbers.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\melsnumbers\melsnumbers\bin\Debug\melsnumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\melsnumbers\melsnumbers\bin\Debug\melsnumbers.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\melsnumbers\melsnumbers\obj\Debug\melsnumbers.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\melsnumbers\melsnumbers\obj\Debug\melsnumbers.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\melsnumbers\melsnumbers\obj\Debug\melsnumbers.pdb

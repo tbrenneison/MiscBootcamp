@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\wordReverser\bin\Debug\wordReverser.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\wordReverser\bin\Debug\wordReverser.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\wordReverser\bin\Debug\wordReverser.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\wordReverser\obj\Debug\wordReverser.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\wordReverser\obj\Debug\wordReverser.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\wordReverser\obj\Debug\wordReverser.csprojResolveAssemblyReference.cache

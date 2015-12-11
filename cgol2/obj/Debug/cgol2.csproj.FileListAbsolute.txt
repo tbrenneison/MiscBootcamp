@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol2\bin\Debug\cgol2.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol2\bin\Debug\cgol2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol2\obj\Debug\cgol2.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol2\obj\Debug\cgol2.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol2\obj\Debug\cgol2.pdb

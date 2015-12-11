@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moonWeight\moonWeight\bin\Debug\moonWeight.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moonWeight\moonWeight\bin\Debug\moonWeight.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moonWeight\moonWeight\bin\Debug\moonWeight.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moonWeight\moonWeight\obj\Debug\moonWeight.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moonWeight\moonWeight\obj\Debug\moonWeight.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\moonWeight\moonWeight\obj\Debug\moonWeight.pdb

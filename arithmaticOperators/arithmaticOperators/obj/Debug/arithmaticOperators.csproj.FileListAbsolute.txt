@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arithmaticOperators\arithmaticOperators\bin\Debug\arithmaticOperators.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arithmaticOperators\arithmaticOperators\obj\Debug\arithmaticOperators.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arithmaticOperators\arithmaticOperators\bin\Debug\arithmaticOperators.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arithmaticOperators\arithmaticOperators\bin\Debug\arithmaticOperators.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arithmaticOperators\arithmaticOperators\obj\Debug\arithmaticOperators.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\arithmaticOperators\arithmaticOperators\obj\Debug\arithmaticOperators.pdb

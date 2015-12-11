@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\stringPractice\bin\Debug\stringPractice.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\stringPractice\bin\Debug\stringPractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\stringPractice\bin\Debug\stringPractice.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\stringPractice\obj\Debug\stringPractice.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\stringPractice\obj\Debug\stringPractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\stringPractice\obj\Debug\stringPractice.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTest\precisionTest\bin\Debug\precisionTest.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTest\precisionTest\bin\Debug\precisionTest.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTest\precisionTest\bin\Debug\precisionTest.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTest\precisionTest\obj\Debug\precisionTest.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTest\precisionTest\obj\Debug\precisionTest.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\precisionTest\precisionTest\obj\Debug\precisionTest.pdb

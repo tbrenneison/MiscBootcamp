@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\productLoop\productLoop\bin\Debug\productLoop.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\productLoop\productLoop\bin\Debug\productLoop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\productLoop\productLoop\bin\Debug\productLoop.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\productLoop\productLoop\obj\Debug\productLoop.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\productLoop\productLoop\obj\Debug\productLoop.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\productLoop\productLoop\obj\Debug\productLoop.pdb

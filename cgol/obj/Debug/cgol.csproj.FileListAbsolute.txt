@@ -1,0 +1,11 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\cgol.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\cgol.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\nunit.framework.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\nunit.framework.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\obj\Debug\cgol.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\obj\Debug\cgol.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\obj\Debug\cgol.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\nunit.core.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\nunit.core.interfaces.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\nunit.util.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\cgol\bin\Debug\NUnit.VisualStudio.TestAdapter.dll

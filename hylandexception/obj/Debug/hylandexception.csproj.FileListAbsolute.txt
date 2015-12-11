@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\hylandexception\bin\Debug\hylandexception.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\hylandexception\bin\Debug\hylandexception.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\hylandexception\bin\Debug\hylandexception.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\hylandexception\obj\Debug\hylandexception.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\hylandexception\obj\Debug\hylandexception.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\hylandexception\obj\Debug\hylandexception.pdb

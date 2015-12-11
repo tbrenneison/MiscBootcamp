@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\queuePractice\bin\Debug\queuePractice.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\queuePractice\bin\Debug\queuePractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\queuePractice\bin\Debug\queuePractice.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\queuePractice\obj\Debug\queuePractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\queuePractice\obj\Debug\queuePractice.pdb

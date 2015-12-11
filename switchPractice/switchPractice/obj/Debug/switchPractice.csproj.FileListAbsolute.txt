@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchPractice\switchPractice\bin\Debug\switchPractice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchPractice\switchPractice\bin\Debug\switchPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchPractice\switchPractice\bin\Debug\switchPractice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchPractice\switchPractice\obj\Debug\switchPractice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchPractice\switchPractice\obj\Debug\switchPractice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\switchPractice\switchPractice\obj\Debug\switchPractice.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\logicWithLamps\logicWithLamps\bin\Debug\logicWithLamps.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\logicWithLamps\logicWithLamps\bin\Debug\logicWithLamps.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\logicWithLamps\logicWithLamps\bin\Debug\logicWithLamps.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\logicWithLamps\logicWithLamps\obj\Debug\logicWithLamps.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\logicWithLamps\logicWithLamps\obj\Debug\logicWithLamps.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\logicWithLamps\logicWithLamps\obj\Debug\logicWithLamps.pdb

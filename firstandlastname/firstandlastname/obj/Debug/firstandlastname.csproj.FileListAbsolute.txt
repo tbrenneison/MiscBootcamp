@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\firstandlastname\firstandlastname\bin\Debug\firstandlastname.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\firstandlastname\firstandlastname\obj\Debug\firstandlastname.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\firstandlastname\firstandlastname\bin\Debug\firstandlastname.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\firstandlastname\firstandlastname\bin\Debug\firstandlastname.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\firstandlastname\firstandlastname\obj\Debug\firstandlastname.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\firstandlastname\firstandlastname\obj\Debug\firstandlastname.pdb

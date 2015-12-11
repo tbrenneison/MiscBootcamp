@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\workoutLoops\workoutLoops\bin\Debug\workoutLoops.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\workoutLoops\workoutLoops\bin\Debug\workoutLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\workoutLoops\workoutLoops\bin\Debug\workoutLoops.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\workoutLoops\workoutLoops\obj\Debug\workoutLoops.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\workoutLoops\workoutLoops\obj\Debug\workoutLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\workoutLoops\workoutLoops\obj\Debug\workoutLoops.pdb

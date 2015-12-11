@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\evenorOdd\evenorOdd\bin\Debug\evenorOdd.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\evenorOdd\evenorOdd\bin\Debug\evenorOdd.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\evenorOdd\evenorOdd\bin\Debug\evenorOdd.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\evenorOdd\evenorOdd\obj\Debug\evenorOdd.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\evenorOdd\evenorOdd\obj\Debug\evenorOdd.pdb

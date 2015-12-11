@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Friday";
+}
+
+<h2>Friday</h2>
+
+
+<style>
+    .bigText {
+        font-size: 60px;
+        font-weight: bold;
+    }
+</style>
+
+<p id="firstParagraph">First paragraph</p>
+<p>Second paragraph</p>
+<button>Make Text Big!</button>
+
+<script>
+$(document).ready(function(){
+    $("button").click(function () {
+        $("#firstParagraph").addClass("bigText");
+
+
+        $.get("@Url.Action("getData","Home")", function (response) {
+            console.log(response); // server response
+            $("#firstParagraph").text(response);
+        }
+        );
+
+    });
+});
+</script>

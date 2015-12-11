@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\backwardStrings\backwardStrings\bin\Debug\backwardStrings.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\backwardStrings\backwardStrings\bin\Debug\backwardStrings.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\backwardStrings\backwardStrings\bin\Debug\backwardStrings.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\backwardStrings\backwardStrings\obj\Debug\backwardStrings.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\backwardStrings\backwardStrings\obj\Debug\backwardStrings.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\backwardStrings\backwardStrings\obj\Debug\backwardStrings.pdb

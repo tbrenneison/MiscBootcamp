@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\dictionariesPractice\bin\Debug\dictionariesPractice.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\dictionariesPractice\bin\Debug\dictionariesPractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\dictionariesPractice\bin\Debug\dictionariesPractice.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\dictionariesPractice\obj\Debug\dictionariesPractice.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\dictionariesPractice\obj\Debug\dictionariesPractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\dictionariesPractice\obj\Debug\dictionariesPractice.pdb

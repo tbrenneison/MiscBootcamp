@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LINQpractice\bin\Debug\LINQpractice.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LINQpractice\bin\Debug\LINQpractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LINQpractice\bin\Debug\LINQpractice.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LINQpractice\obj\Debug\LINQpractice.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LINQpractice\obj\Debug\LINQpractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\LINQpractice\obj\Debug\LINQpractice.pdb

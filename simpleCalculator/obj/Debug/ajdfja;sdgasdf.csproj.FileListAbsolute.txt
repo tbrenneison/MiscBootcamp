@@ -1,0 +1,8 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ajdfja;sdgasdf\bin\Debug\ajdfja;sdgasdf.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ajdfja;sdgasdf\bin\Debug\ajdfja;sdgasdf.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ajdfja;sdgasdf\bin\Debug\ajdfja;sdgasdf.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ajdfja;sdgasdf\obj\Debug\ajdfja;sdgasdf.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ajdfja;sdgasdf\obj\Debug\ajdfja;sdgasdf.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\simpleCalculator\bin\Debug\ajdfja;sdgasdf.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\simpleCalculator\obj\Debug\ajdfja;sdgasdf.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\simpleCalculator\obj\Debug\ajdfja;sdgasdf.pdb

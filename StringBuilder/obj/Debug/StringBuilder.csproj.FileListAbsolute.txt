@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StringBuilder\obj\Debug\StringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\StringBuilder\obj\Debug\StringBuilder.pdb

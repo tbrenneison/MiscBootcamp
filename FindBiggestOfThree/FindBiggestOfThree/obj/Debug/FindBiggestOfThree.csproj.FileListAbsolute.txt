@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FindBiggestOfThree\FindBiggestOfThree\bin\Debug\FindBiggestOfThree.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FindBiggestOfThree\FindBiggestOfThree\obj\Debug\FindBiggestOfThree.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FindBiggestOfThree\FindBiggestOfThree\bin\Debug\FindBiggestOfThree.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FindBiggestOfThree\FindBiggestOfThree\bin\Debug\FindBiggestOfThree.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FindBiggestOfThree\FindBiggestOfThree\obj\Debug\FindBiggestOfThree.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FindBiggestOfThree\FindBiggestOfThree\obj\Debug\FindBiggestOfThree.pdb

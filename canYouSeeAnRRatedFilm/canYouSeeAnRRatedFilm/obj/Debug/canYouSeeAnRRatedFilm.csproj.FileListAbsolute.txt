@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\canYouSeeAnRRatedFilm\canYouSeeAnRRatedFilm\bin\Debug\canYouSeeAnRRatedFilm.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\canYouSeeAnRRatedFilm\canYouSeeAnRRatedFilm\bin\Debug\canYouSeeAnRRatedFilm.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\canYouSeeAnRRatedFilm\canYouSeeAnRRatedFilm\bin\Debug\canYouSeeAnRRatedFilm.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\canYouSeeAnRRatedFilm\canYouSeeAnRRatedFilm\obj\Debug\canYouSeeAnRRatedFilm.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\canYouSeeAnRRatedFilm\canYouSeeAnRRatedFilm\obj\Debug\canYouSeeAnRRatedFilm.pdb

@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\UnitTestProject\bin\Debug\cgol2.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\UnitTestProject\bin\Debug\cgol2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\UnitTestProject\obj\Debug\UnitTestProject.pdb

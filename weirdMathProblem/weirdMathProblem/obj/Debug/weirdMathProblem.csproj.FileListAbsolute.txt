@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weirdMathProblem\weirdMathProblem\bin\Debug\weirdMathProblem.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weirdMathProblem\weirdMathProblem\bin\Debug\weirdMathProblem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weirdMathProblem\weirdMathProblem\bin\Debug\weirdMathProblem.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weirdMathProblem\weirdMathProblem\obj\Debug\weirdMathProblem.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weirdMathProblem\weirdMathProblem\obj\Debug\weirdMathProblem.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\weirdMathProblem\weirdMathProblem\obj\Debug\weirdMathProblem.pdb

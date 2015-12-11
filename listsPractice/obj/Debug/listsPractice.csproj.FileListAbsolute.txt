@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\listsPractice\bin\Debug\listsPractice.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\listsPractice\bin\Debug\listsPractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\listsPractice\bin\Debug\listsPractice.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\listsPractice\obj\Debug\listsPractice.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\listsPractice\obj\Debug\listsPractice.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\listsPractice\obj\Debug\listsPractice.pdb

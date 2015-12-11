@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "Tacos";
+}
+
+<h2>I Want Tacos</h2>
+
+<p id="tacop">I want tacos.</p>
+
+<button class="btn">Button</button>
+<button id="chibutton" class="btn">Other Button</button>
+<br />
+
+<img id="tacos" src="http://www.berwynbrewfest.com/wp-content/uploads/2012/06/tacos-mexicanos.jpg" width="300" class="img-responsive" />
+
+<img id="moartacos" src="http://ventanaver.mx/portal/wp-content/uploads/2015/04/TACOS-MEXICANOS.jpg" width="300" class="img-responsive" /> 
+
+<img id="tacopug" src="http://ecx.images-amazon.com/images/I/81RQSQgWWaL._SL1500_.jpg" width="300" class="img-responsive" style="display:inline-block" />
+
+<img id="chitaco" src="http://ecx.images-amazon.com/images/I/41%2BeZQfvcAL._SY355_.jpg" width="300" class="img-responsive" style="display:inline-block" />
+
+<br />
+
+<button id="tacobutton "class="btn">Click for Tacos</button>
+
+<div id="tacodiv">
+    <input id="namebox" value="name" /> 
+</div>
+
+
+
+<script>
+    $("#tacobutton").click(function () {
+        $("#tacodiv").toggleClass("hide");
+    })
+</script>
+
+<script>
+    $("#tacop").append("<p>I really want tacos.</p>");
+    $("#tacop").prepend("<p>Tacos would be nice.</p>");
+</script>
+
+<script>
+    $("#tacos").click(function () {
+        $("#tacos").fadeOut(); 
+    })
+</script>
+
+<script>
+    $("#moartacos").click(function () {
+        $("#moartacos").slideUp();
+    })
+</script>
+
+<script>
+    $("#namebox").val("lawls"); 
+</script>
+
+<script>
+    $(document).ready(function () {
+        $(".btn:first").text("Pug toggle");
+        $(".btn:first").click(function () {
+            $("#tacopug").toggle("slow", "linear")
+            })
+        })
+</script>
+
+<script>
+    $(document).ready(function () {
+        $("#chibutton").text("Chi toggle");
+        $("#chibutton").click(function () {
+            $("#chitaco").toggle("slow", "linear")
+        })
+    })
+</script>

@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\abnormalFloat\abnormalFloat\bin\Debug\abnormalFloat.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\abnormalFloat\abnormalFloat\bin\Debug\abnormalFloat.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\abnormalFloat\abnormalFloat\bin\Debug\abnormalFloat.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\abnormalFloat\abnormalFloat\obj\Debug\abnormalFloat.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\abnormalFloat\abnormalFloat\obj\Debug\abnormalFloat.pdb

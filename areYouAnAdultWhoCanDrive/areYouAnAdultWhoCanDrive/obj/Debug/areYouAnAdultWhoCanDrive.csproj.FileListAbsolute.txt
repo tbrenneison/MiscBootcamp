@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\areYouAnAdultWhoCanDrive\areYouAnAdultWhoCanDrive\bin\Debug\areYouAnAdultWhoCanDrive.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\areYouAnAdultWhoCanDrive\areYouAnAdultWhoCanDrive\bin\Debug\areYouAnAdultWhoCanDrive.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\areYouAnAdultWhoCanDrive\areYouAnAdultWhoCanDrive\bin\Debug\areYouAnAdultWhoCanDrive.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\areYouAnAdultWhoCanDrive\areYouAnAdultWhoCanDrive\obj\Debug\areYouAnAdultWhoCanDrive.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\areYouAnAdultWhoCanDrive\areYouAnAdultWhoCanDrive\obj\Debug\areYouAnAdultWhoCanDrive.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\areYouAnAdultWhoCanDrive\areYouAnAdultWhoCanDrive\obj\Debug\areYouAnAdultWhoCanDrive.pdb
